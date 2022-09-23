@@ -1,0 +1,15 @@
+C:\Users\yongw\source\repos\CSharpLearn\CSharpLearn\bin\Debug\net6.0\CSharpLearn.exe
+C:\Users\yongw\source\repos\CSharpLearn\CSharpLearn\bin\Debug\net6.0\CSharpLearn.deps.json
+C:\Users\yongw\source\repos\CSharpLearn\CSharpLearn\bin\Debug\net6.0\CSharpLearn.runtimeconfig.json
+C:\Users\yongw\source\repos\CSharpLearn\CSharpLearn\bin\Debug\net6.0\CSharpLearn.dll
+C:\Users\yongw\source\repos\CSharpLearn\CSharpLearn\bin\Debug\net6.0\CSharpLearn.pdb
+C:\Users\yongw\source\repos\CSharpLearn\CSharpLearn\obj\Debug\net6.0\CSharpLearn.csproj.AssemblyReference.cache
+C:\Users\yongw\source\repos\CSharpLearn\CSharpLearn\obj\Debug\net6.0\CSharpLearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yongw\source\repos\CSharpLearn\CSharpLearn\obj\Debug\net6.0\CSharpLearn.AssemblyInfoInputs.cache
+C:\Users\yongw\source\repos\CSharpLearn\CSharpLearn\obj\Debug\net6.0\CSharpLearn.AssemblyInfo.cs
+C:\Users\yongw\source\repos\CSharpLearn\CSharpLearn\obj\Debug\net6.0\CSharpLearn.csproj.CoreCompileInputs.cache
+C:\Users\yongw\source\repos\CSharpLearn\CSharpLearn\obj\Debug\net6.0\CSharpLearn.dll
+C:\Users\yongw\source\repos\CSharpLearn\CSharpLearn\obj\Debug\net6.0\refint\CSharpLearn.dll
+C:\Users\yongw\source\repos\CSharpLearn\CSharpLearn\obj\Debug\net6.0\CSharpLearn.pdb
+C:\Users\yongw\source\repos\CSharpLearn\CSharpLearn\obj\Debug\net6.0\CSharpLearn.genruntimeconfig.cache
+C:\Users\yongw\source\repos\CSharpLearn\CSharpLearn\obj\Debug\net6.0\ref\CSharpLearn.dll
